@@ -1,0 +1,6 @@
+*.jar >> . gitignore
+echo *.jar >>. gitignore
+echo *.jar >> .gitignore
+echo *.jar>> .gitignore
+echo *.jar >> .gitinore
+echo 
